@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "jsx": "react",
+      "jsx": "react",
+      "jsx": "react",
+      "jsx": "react",
+      "jsx": "react",
+      "composite": true,
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "target": "ESNext",
+      "allowSyntheticDefaultImports": true
+    }
+  }
+  
